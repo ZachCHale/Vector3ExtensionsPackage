@@ -1,0 +1,7 @@
+{
+  "name": "com.ambiindi.packagetemplate",
+  "version": "1.0.0",
+  "displayName": "Package Template",
+  "description": "This is a template for creating a custom package.",
+  "unity": "2020.1"
+}
