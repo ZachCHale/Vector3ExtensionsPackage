@@ -1,7 +1,7 @@
 {
-  "name": "com.ambiindi.packagetemplate",
+  "name": "com.ambiindi.vector3extensions",
   "version": "1.0.0",
-  "displayName": "Package Template",
-  "description": "This is a template for creating a custom package.",
+  "displayName": "Vector3 Extensions Package",
+  "description": "This is a package that adds a small number of extensions to Vector3.",
   "unity": "2020.1"
 }
